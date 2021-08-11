@@ -1,0 +1,4 @@
+-Instalar dependencias para server y client
+-Correr yarn start en los directorios server y client desde la consola
+-Abrir pestañas en localhost:3000
+-Para generar una guía dar click en el botón
